@@ -1,6 +1,6 @@
-# 🧠 TimeSight
+# 🧠 Teaminsight
 
-**TimeSight** is an AI-powered assistant that helps teams analyze feedback, identify communication or productivity issues, and understand the emotional tone of discussions. Built with OpenAI and Hugging Face models, TimeSight provides smart insights to help teams grow stronger and more efficient.
+**Teaminsight** is an AI-powered assistant that helps teams analyze feedback, identify communication or productivity issues, and understand the emotional tone of discussions. Built with OpenAI and Hugging Face models, Teaminsight provides smart insights to help teams grow stronger and more efficient.
 
 ---
 
