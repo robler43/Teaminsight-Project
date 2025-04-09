@@ -3,6 +3,11 @@
 **Teaminsight** is an AI-powered assistant that helps teams analyze feedback, identify communication or productivity issues, and understand the emotional tone of discussions. Built with OpenAI and Hugging Face models, Teaminsight provides smart insights to help teams grow stronger and more efficient.
 
 ---
+## 📹 Demo
+
+- **Video Demo** https://www.loom.com/share/8982f434366747e9af7be1fa9e592c72?sid=396a250b-b3b1-442c-9045-bcb8db76e6d6
+
+---
 
 ## 🚀 Features
 
