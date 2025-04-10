@@ -13,8 +13,7 @@
 
 - 🔍 **Insight Extraction** – Uses GPT (OpenAI) to identify issues and suggest improvements.
 - 🎭 **Emotion Detection** – Classifies emotional tone using a Hugging Face model.
-- 🌐 **Web Interface** – Powered by Streamlit for easy interaction.
-- 🧪 100% Local & Privacy-First – All feedback runs locally unless OpenAI API is used.
+- 🌐 **Web Interface** – Powered with Streamlit for easy interaction.
 
 ---
 
