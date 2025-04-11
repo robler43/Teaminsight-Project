@@ -28,4 +28,3 @@
 | Env Control  | python-dotenv + venv                        |
 
 ---
-https://drive.google.com/file/d/1Og3k20N_u5A5Jl4fk5TYIQZHH0lnJ6hm/view?usp=drive_link
